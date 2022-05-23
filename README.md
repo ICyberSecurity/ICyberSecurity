@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ICyberSecurity
+- 👀 I’m interested in project management
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on websites
+- 📫 How to reach me: ian.caso.cy@gmail.com
